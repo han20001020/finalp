@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/editTextBackground"/>  <!-- 使用白天背景顏色 -->
+    <corners android:radius="8dp"/>
+    <stroke android:width="2dp" android:color="#CCCCCC"/>  <!-- 邊框顏色 -->
+</shape>

@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/editTextBackground"/>  <!-- 使用夜晚背景顏色 -->
+    <corners android:radius="8dp"/>
+    <stroke android:width="2dp" android:color="#FFFFFF"/>  <!-- 夜晚模式的邊框顏色 -->
+</shape>

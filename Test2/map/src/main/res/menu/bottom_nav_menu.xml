@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="首頁" />
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:title="搜尋資料" />
+    <item
+        android:id="@+id/advice"
+        android:icon="@drawable/ic_notifications"
+        android:title="意見回饋" />
+</menu>

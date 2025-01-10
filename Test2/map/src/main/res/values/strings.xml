@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    
+
+    <string-array name="year_option">
+        <item>請選擇年份</item>
+        <item>113年</item>
+        <item>114年</item>
+        <item>115年</item>
+        <item>116年</item>
+        <item>117年</item>
+        <item>118年</item>
+        <item>119年</item>
+    </string-array>
+
+    <string-array name="season_option">
+        <item>請選擇季度</item>
+        <item>第一季</item>
+        <item>第二季</item>
+        <item>第三季</item>
+        <item>第四季</item>
+    </string-array>
+    
+    <string-array name="city_option">
+        <item>請選擇縣市</item>
+        <item>臺北市</item>
+        <item>新北市</item>
+        <item>基隆市</item>
+    </string-array>
+
+    <string-array name="null_option">
+        <item>請先選擇縣市</item>
+    </string-array>
+    
+    <string-array name="Taipei_option">
+        <item>請選擇地區</item>
+        <item>中山區</item>
+        <item>中正區</item>
+        <item>信義區</item>
+        <item>內湖區</item>
+        <item>北投區</item>
+        <item>南港區</item>
+        <item>士林區</item>
+        <item>大同區</item>
+        <item>大安區</item>
+        <item>文山區</item>
+        <item>松山區</item>
+        <item>萬華區</item>
+    </string-array>
+    
+    <string-array name="NewTaipei_option">
+        <item>請選擇地區</item>
+        <item>板橋區</item>
+        <item>三重區</item>
+        <item>中和區</item>
+        <item>永和區</item>
+        <item>新莊區</item>
+        <item>新店區</item>
+        <item>樹林區</item>
+        <item>鶯歌區</item>
+        <item>三峽區</item>
+        <item>淡水區</item>
+        <item>汐止區</item>
+        <item>瑞芳區</item>
+        <item>土城區</item>
+        <item>蘆洲區</item>
+        <item>五股區</item>
+        <item>泰山區</item>
+        <item>林口區</item>
+        <item>深坑區</item>
+        <item>石碇區</item>
+        <item>坪林區</item>
+        <item>三芝區</item>
+        <item>石門區</item>
+        <item>八里區</item>
+        <item>平溪區</item>
+        <item>雙溪區</item>
+        <item>貢寮區</item>
+        <item>金山區</item>
+        <item>萬里區</item>
+        <item>烏來區</item>
+    </string-array>
+    
+    <string-array name="Keelung_option">
+        <item>請選擇地區</item>
+        <item>仁愛區</item>
+        <item>信義區</item>
+        <item>中正區</item>
+        <item>中山區</item>
+        <item>安樂區</item>
+        <item>暖暖區</item>
+        <item>七堵區</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>

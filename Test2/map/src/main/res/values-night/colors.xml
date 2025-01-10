@@ -1,0 +1,4 @@
+<resources>
+    <color name="editTextBackground">#333333</color> <!-- 深色背景 -->
+    <color name="editTextTextColor">#FFFFFF</color> <!-- 白色文字 -->
+</resources>
